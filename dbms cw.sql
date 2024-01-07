@@ -1,7 +1,7 @@
 
 /*            ---DBMS course work---
-team members =>
-              	GADSE232.F-005-Chanuka Dilshan[Leader]
+		team members =>
+              			GADSE232.F-005-Chanuka Dilshan[Leader]
 				GADSE232.F-012- Bhagya P.I.
 				GADSE232.F-019-A.L.P. De Zoysa
 				GADSE232.F-026 Pitiyage K.L.
@@ -606,7 +606,7 @@ VALUES
 -- Insert data into the Order table
 insert into Orders (OrderID, Location, DateAndTime, PaymentMethod, Cost, CustID, StaffID, DriverID, CartID)
 VALUES
-('O_001', '888 Barre Boulevard, Balletburg', '2023-03-01 12:00:00', 'Cash', 800.00, '001C', 'S001', '001D', 'C001'),
+('O_001', '888 Barre Boulevard,Â Balletburg', '2023-03-01 12:00:00', 'Cash', 800.00, '001C', 'S001', '001D', 'C001'),
 ('O_002', '505 Climbing Climb, Summit City', '2023-03-02 18:30:00', 'Credit Card', 750.00, '002C', 'S002', '002D', 'C002'),
 ('O_003',' 45 Jumping Jack Avenue','2023-03-02 18:31:12','Online payment',800.00,'004C','S003','004D','C005'),
 ('O_004','789 Treadmill Terrace, Cardio City','2023-03-02 18:48:00','Online Payment',2350.00,'007C','S004','003D','C004'),
@@ -636,11 +636,11 @@ VALUES
 ('O_008', 'F008',5,'The menu showcases creativity with unique flavor combinations that stand out.'),
 ('O_009', 'F009',4.9,'Prices are reasonable for the quality of food and service provided.'),
 ('O_010', 'F010',5,'The cleanliness of the establishment reflects a commitment to hygiene standards.'),
-('O_011', 'F011',4.1,'Timely service – our food arrived promptly, and the waitstaff was efficient.'),
+('O_011', 'F011',4.1,'Timely service Â– our food arrived promptly, and the waitstaff was efficient.'),
 ('O_012', 'F012',4.2,'The presentation of each dish is aesthetically pleasing, adding to the overall dining pleasure.'),
 ('O_013', 'F013',4.7,'A great selection of beverages complements the food menu, offering diverse choices.'),
 ('O_014', 'F014',4.8,'The establishment accommodates dietary restrictions, providing options for various preferences.'),
-('O_015', 'F015',4.9,'Consistent taste – our favorite dishes tasted just as good on repeat visits.');
+('O_015', 'F015',4.9,'Consistent taste Â– our favorite dishes tasted just as good on repeat visits.');
 
 
 
